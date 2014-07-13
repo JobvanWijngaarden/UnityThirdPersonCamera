@@ -1,4 +1,0 @@
-UnityThirdPersonCamera
-======================
-
-sample project 
